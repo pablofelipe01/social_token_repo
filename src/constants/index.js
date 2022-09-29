@@ -4,7 +4,7 @@ export const navLinks = [
   {
     id: "token",
     title: "Token",
-    link: "https://app.strataprotocol.com/swap/4HK5WwBnX3ATZrw56stf1xuY9PPCU7D9nvkLPLFVy9Tq",
+    link: "https://app.wum.bo/profile/view/4HK5WwBnX3ATZrw56stf1xuY9PPCU7D9nvkLPLFVy9Tq",
   },
   {
     id: "wallet",
