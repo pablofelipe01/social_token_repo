@@ -19,7 +19,7 @@ export const navLinks = [
   {
     id: "reserve",
     title: "Reserve",
-    link: "https://solscan.io/account/G9mt1AJsY6PuTfTwMif3GDnRAWDUvdLaVx7bfo6S7CXt"
+    link: "https://explorer.solana.com/address/G9mt1AJsY6PuTfTwMif3GDnRAWDUvdLaVx7bfo6S7CXt/tokens"
   },
 ];
 
