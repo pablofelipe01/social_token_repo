@@ -16,10 +16,11 @@ export const navLinks = [
     title: "Explorer",
     link: "https://solscan.io/token/4HK5WwBnX3ATZrw56stf1xuY9PPCU7D9nvkLPLFVy9Tq#analysis",
   },
-  // {
-  //   id: "clients",
-  //   title: "Clients",
-  // },
+  {
+    id: "reserve",
+    title: "Reserve",
+    link: "https://solscan.io/account/G9mt1AJsY6PuTfTwMif3GDnRAWDUvdLaVx7bfo6S7CXt"
+  },
 ];
 
 export const features = [
