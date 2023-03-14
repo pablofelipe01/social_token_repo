@@ -18,7 +18,7 @@ const Navbar = () => {
             className={`font-poppins font-normal cursor-pointer text-[16px]  ${index === navLinks.length - 1 ? "mr-0" : "mr-10"} text-white`}
             onClick={() => setActive(nav.link)}
           >
-            <a href={`${nav.link}`}>{nav.title}</a>
+            <a href={`${nav.link}`} rel='noopener' target='_blank'>{nav.title}</a>
           </li>
         ))}
       </ul>
@@ -46,7 +46,7 @@ const Navbar = () => {
                 } ${index === navLinks.length - 1 ? "mb-0" : "mb-4"}`}
                 onClick={() => setActive(nav.title)}
               >
-                <a href={`${nav.link}`}>{nav.title}</a>
+                <a href={`${nav.link}`} rel='noopener' target='_blank'>{nav.title}</a>
               </li>
             ))}
           </ul>

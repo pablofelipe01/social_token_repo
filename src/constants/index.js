@@ -4,7 +4,7 @@ export const navLinks = [
   {
     id: "token",
     title: "Token",
-    link: "https://app.wum.bo/swap/G9mt1AJsY6PuTfTwMif3GDnRAWDUvdLaVx7bfo6S7CXt/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/4HK5WwBnX3ATZrw56stf1xuY9PPCU7D9nvkLPLFVy9Tq",
+    link: "https://www.mintsocialtoken.app/",
   },
   {
     id: "wallet",
